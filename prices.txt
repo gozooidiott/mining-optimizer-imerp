@@ -4,7 +4,7 @@
 
 # Ingots
 copper_ingot:19
-alu_ingot:18
+alu_ingot:13
 silver_ingot:46
 gold_ingot:58
 steel_ingot:75
@@ -14,7 +14,7 @@ coal:7
 
 # Cut Gems
 ruby:39
-emerald:104
+emerald:78
 sapphire:18
 diamond:31
 
@@ -43,3 +43,4 @@ diamond_necklace_silver:312
 ruby_necklace_silver:640
 sapphire_necklace_silver:218
 emerald_necklace_silver:678
+
