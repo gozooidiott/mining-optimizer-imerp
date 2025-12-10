@@ -1,11 +1,11 @@
 # Jewelry Crafting Optimizer - Price List
-# Updated on: 2025-10-13 05:00:00
+# Updated on: 2025-12-11 01:34:00
 # Format: item_name:price
 
 # Ingots
 copper_ingot:19
-alu_ingot:18
-silver_ingot:46
+alu_ingot:13
+silver_ingot:62
 gold_ingot:58
 steel_ingot:75
 
@@ -15,7 +15,7 @@ coal:7
 # Cut Gems
 ruby:39
 emerald:78
-sapphire:18
+sapphire:13
 diamond:31
 
 # Gold-Crafted Jewelry
@@ -24,14 +24,14 @@ ruby_ring:351
 sapphire_ring:210
 diamond_earring:186
 ruby_earring:210
-sapphire_earring:188
+sapphire_earring:141
 emerald_earring:326
 ruby_necklace:655
 sapphire_necklace:351
 emerald_necklace:467
 
 # Silver-Crafted Jewelry
-diamond_ring_silver:292
+diamond_ring_silver:195
 emerald_ring_silver:576
 ruby_ring_silver:339
 sapphire_ring_silver:132
@@ -43,6 +43,7 @@ diamond_necklace_silver:312
 ruby_necklace_silver:640
 sapphire_necklace_silver:218
 emerald_necklace_silver:678
+
 
 
 
