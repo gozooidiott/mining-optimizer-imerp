@@ -3,20 +3,20 @@
 # Format: item_name:price
 
 # Ingots
-copper_ingot:19
-alu_ingot:13
-silver_ingot:46
-gold_ingot:58
+copper_ingot:62
+alu_ingot:83
+silver_ingot:102
+gold_ingot:124
 steel_ingot:56
 
 # Other Materials
 coal:7
 
 # Cut Gems
-ruby:39
-emerald:78
-sapphire:13
-diamond:31
+ruby:124
+emerald:139
+sapphire:45
+diamond:102
 
 # Gold-Crafted Jewelry
 emerald_ring:444
