@@ -19,30 +19,31 @@ sapphire:13
 diamond:31
 
 # Gold-Crafted Jewelry
-emerald_ring:444
-ruby_ring:351
-sapphire_ring:210
-diamond_earring:186
-ruby_earring:210
-sapphire_earring:141
-emerald_earring:326
-ruby_necklace:655
-sapphire_necklace:351
-emerald_necklace:467
+emerald_ring:355
+ruby_ring:280
+sapphire_ring:168
+diamond_earring:148
+ruby_earring:168
+sapphire_earring:112
+emerald_earring:195
+ruby_necklace:524
+sapphire_necklace:280
+emerald_necklace:561
 
 # Silver-Crafted Jewelry
-diamond_ring_silver:195
-emerald_ring_silver:576
-ruby_ring_silver:339
-sapphire_ring_silver:132
-diamond_earring_silver:174
-ruby_earring_silver:198
-sapphire_earring_silver:129
-emerald_earring_silver:326
-diamond_necklace_silver:312
-ruby_necklace_silver:640
-sapphire_necklace_silver:218
-emerald_necklace_silver:678
+diamond_ring_silver:234
+emerald_ring_silver:345
+ruby_ring_silver:271
+sapphire_ring_silver:159
+diamond_earring_silver:139
+ruby_earring_silver:159
+sapphire_earring_silver:103
+emerald_earring_silver:195
+diamond_necklace_silver:375
+ruby_necklace_silver:512
+sapphire_necklace_silver:261
+emerald_necklace_silver:362
+
 
 
 
