@@ -28,7 +28,7 @@ sapphire_earring:112
 emerald_earring:195
 ruby_necklace:524
 sapphire_necklace:280
-emerald_necklace:561
+emerald_necklace:374
 
 # Silver-Crafted Jewelry
 diamond_ring_silver:234
@@ -41,8 +41,9 @@ sapphire_earring_silver:103
 emerald_earring_silver:195
 diamond_necklace_silver:250
 ruby_necklace_silver:512
-sapphire_necklace_silver:261
+sapphire_necklace_silver:174
 emerald_necklace_silver:362
+
 
 
 
